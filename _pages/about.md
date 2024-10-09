@@ -22,12 +22,9 @@ You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](ht
 
 Publications
 ======
-### Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities ###
-
-Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma
-
-CHI 2025 under-review
-
+### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
+Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma \n
+CHI 2025 under-review \n
 [🔗 PDF](http://example.com/path-to-pdf.pdf)
 
 
