@@ -12,6 +12,7 @@ Hello! I'm Xiucheng Zhang (张修程), a senior student majoring in Artificial I
 My research interests lie in Human-Computer Interaction and AI for Creativity. Specifically, my focus includes: 
 1. Understanding and simulating human cognition to align the minds of humans and intelligent agents, thereby optimizing the experience of human-machine collaboration.
 2. Exploring the imagination of intelligent agents to assist humans in creative tasks.
+
 Overall, I am passionate about considering the role of a general agent from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis).
 
 A data-driven personal website
