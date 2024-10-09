@@ -22,9 +22,12 @@ You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](ht
 
 Publications
 ======
-# Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities
-**Authors**: Shuailin Li, Shiwei Wu, Tianjian Liu, Han Zhang, Qingyu Guo, Zhenhui Peng
-**Conference**: ICWSM 2024
+### Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities ###
+
+Shuailin Li, Shiwei Wu, Tianjian Liu, Han Zhang, Qingyu Guo, Zhenhui Peng
+
+CHI 2025 under-review
+
 [🔗 PDF](http://example.com/path-to-pdf.pdf)
 
 
