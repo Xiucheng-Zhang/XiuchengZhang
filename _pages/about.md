@@ -17,7 +17,7 @@ Overall, I am passionate about considering the role of a general agent from the 
 
 Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work.
 
-You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](../assets/CV_20240920.pdf).
+You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](https://drive.google.com/file/d/1OVSRJ1i8Hmh_McKQCFHL_4LJBnMIYhM5/view?usp=sharing).
 
 
 A data-driven personal website
