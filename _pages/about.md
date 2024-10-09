@@ -24,7 +24,7 @@ Publications
 ======
 ### Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities ###
 
-Shuailin Li, Shiwei Wu, Tianjian Liu, Han Zhang, Qingyu Guo, Zhenhui Peng
+Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma
 
 CHI 2025 under-review
 
