@@ -1,8 +1,7 @@
 ---
 title: "Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/aff
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-09-13
 venue: 'CHI 2025 under-review'
