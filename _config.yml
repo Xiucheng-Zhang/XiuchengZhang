@@ -12,7 +12,7 @@ title                    : "Xiucheng Zhang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiucheng Zhang"
 description              : &description "Senior undergraduate student from Sun Yat-sen University"
-url                      : https://Xiucheng-Zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiucheng-zhang.github.io/XiuchengZhang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xiucheng-Zhang/XiuchengZhang"
 
