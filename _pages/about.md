@@ -19,7 +19,7 @@ Besides my experience in HCI, I have also had the privilege to work with [Prof. 
 
 You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](https://drive.google.com/file/d/1OVSRJ1i8Hmh_McKQCFHL_4LJBnMIYhM5/view?usp=sharing).
 
-
+---
 Publications
 ======
 ### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
