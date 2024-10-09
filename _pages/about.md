@@ -25,8 +25,13 @@ You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](ht
 ### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
 Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
 CHI 2025 under-review  
+The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
 [🔗 PDF](http://example.com/path-to-pdf.pdf)
 
+### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
+Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
+CHI 2025 under-review  
+The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
 
 A data-driven personal website
 ======
