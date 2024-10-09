@@ -9,11 +9,13 @@ redirect_from:
 
 Hello! I'm Xiucheng Zhang (张修程), a senior student majoring in Artificial Intelligence at Sun Yat-sen University. I am very fortunate to be advised by [Prof. Zhenhui Peng](https://www.zhenhuipeng.com/), who led me into Human-Computer Interaction research. In summer 2024, I was a visiting research intern at the Hong Kong University of Science and Technology and very honored to work with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). I am set to graduate in June 2025 and **am actively seeking opportunities for further study following my undergraduate degree**.
 
-My research interests lie in Human-Computer Interaction and AI for Creativity. Specifically, my focus includes: 
+My research interests lie in Human-Computer Interaction (HCI) and AI for Creativity. Specifically, my focus includes: 
 1. Understanding and simulating human cognition to align the minds of humans and intelligent agents, thereby optimizing the experience of human-machine collaboration.
 2. Exploring the imagination of intelligent agents to assist humans in creative tasks.
 
 Overall, I am passionate about considering the role of a general agent from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis).
+
+Besides my research in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work.
 
 A data-driven personal website
 ======
