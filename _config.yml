@@ -12,13 +12,13 @@ title                    : "Xiucheng Zhang 张修程"
 title_separator          : "-"
 name                     : &name "Xiucheng Zhang"
 description              : &description "Senior undergraduate student from Sun Yat-sen University"
-# url                      : https://xiucheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# baseurl                  : "/XiuchengZhang" # the subpath of your site, e.g. "/blog"
-# repository               : "Xiucheng-Zhang/XiuchengZhang"
+url                      : https://xiucheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/XiuchengZhang" # the subpath of your site, e.g. "/blog"
+repository               : "Xiucheng-Zhang/XiuchengZhang"
 
-url: "https://NorthSecond.github.io"
-baseurl: "/XiuchengZhang"
-repository: "NorthSecond/XiuchengZhang"
+# url: "https://NorthSecond.github.io"
+# baseurl: "/XiuchengZhang"
+# repository: "NorthSecond/XiuchengZhang"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
