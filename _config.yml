@@ -16,8 +16,8 @@ description              : &description "Senior undergraduate student from Sun Y
 # baseurl                  : "/XiuchengZhang" # the subpath of your site, e.g. "/blog"
 # repository               : "Xiucheng-Zhang/XiuchengZhang"
 
-url: "https://NorthSecond.github.io"
-baseurl: "/XiuchengZhang"
+url: "https://NorthSecond.github.io/XiuchengZhang"
+baseurl: ""
 repository: "NorthSecond/XiuchengZhang"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
