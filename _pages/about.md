@@ -39,9 +39,13 @@ MobileHCI 2024 Late-Breaking Work
 [🔗 PDF](https://dl.acm.org/doi/10.1145/3640471.3680231) | [🖼️ Poster](https://drive.google.com/file/d/1-G3Gzc0NC-CLvqAk6VE3ta8_-qbn7afq/view?usp=sharing)
 
 ### Low Saturation Confidence Distribution-based Test-Time Adaptation for Cross-Domain Wide-Area Remote Sensing Image Classification ###
-Yu Liang, **Xiucheng Zhang**, Juepeng Zheng, Jianxi Huang, Haohuan Fu
-International Journal of Applied Earth Observation and Geoinformation, under-review
+Yu Liang, **Xiucheng Zhang**, Juepeng Zheng, Jianxi Huang, Haohuan Fu  
+International Journal of Applied Earth Observation and Geoinformation, under-review  
 [🔗 PDF](https://arxiv.org/pdf/2408.16265)
+
+### [Patent] Display Screen and System with Security Monitoring Functionality ###
+Hongxing Zhang, **Xiucheng Zhang**  
+Publication No. CN115623170A. January 17, 2023  
 
 
 A data-driven personal website
