@@ -17,21 +17,32 @@ Overall, I am passionate about considering the role of a general agent from the 
 
 Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work.
 
-You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](https://drive.google.com/file/d/1OVSRJ1i8Hmh_McKQCFHL_4LJBnMIYhM5/view?usp=sharing).
+You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](https://drive.google.com/file/d/1thg3vRHefmlJBBrbmBBh7MLYgrtAfaru/view?usp=sharing).
 
 ---
 # Publications #
 
-### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
+### *ACKnowledge*: A Computational Framework for Human Compatible Affordance-based Interaction Planning in Real-world Contexts ###
 Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
-CHI 2025 under-review  
+CHI 2025, under-review  
 The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
-[🔗 PDF](http://example.com/path-to-pdf.pdf)
 
-### Computational Cognitive Architecture with Awareness of Real-world Contexts for Affordance-based Task Planning ###
-Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
-CHI 2025 under-review  
+
+### *CanAnswer*: A Community-Powered Conversational Agent for Learning About Colorectal Cancer ###
+Yiwei Yuan, Zhiqing Wang, **Xiucheng Zhang**, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng  
+CHI 2025, under-review  
 The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
+
+### *DesignWatch*: Analyzing Users’ Operations of Mobile Apps Based on Screen Recordings. ###
+**Xiucheng Zhang**, Yixin Zeng, Qichang Li, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui Peng  
+MobileHCI 2024 Late-Breaking Work  
+[🔗 PDF](https://dl.acm.org/doi/10.1145/3640471.3680231) | [🖼️ Poster](https://drive.google.com/file/d/1-G3Gzc0NC-CLvqAk6VE3ta8_-qbn7afq/view?usp=sharing)
+
+### Low Saturation Confidence Distribution-based Test-Time Adaptation for Cross-Domain Wide-Area Remote Sensing Image Classification ###
+Yu Liang, **Xiucheng Zhang**, Juepeng Zheng, Jianxi Huang, Haohuan Fu
+International Journal of Applied Earth Observation and Geoinformation, under-review
+[🔗 PDF](https://arxiv.org/pdf/2408.16265)
+
 
 A data-driven personal website
 ======
