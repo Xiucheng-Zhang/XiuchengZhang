@@ -3,7 +3,7 @@ title: 'My First Conference Experience and Journey to Melbourne'
 date: 2024-10-04
 permalink: /posts/2024/10/melbourne/
 tags:
-  - academic conference
+  - Academic Conference
   - MobileHCI
 ---
 
