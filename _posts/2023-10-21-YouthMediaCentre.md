@@ -1,7 +1,7 @@
 ---
 title: 'Change of Leadership at the School of Artificial Intelligence Youth Media Center'
-date: 2013-08-14
-permalink: /posts/2013/08/YouthMediaCentre/
+date: 2023-10-21
+permalink: /posts/2023/10/YouthMediaCentre/
 tags:
   - Youth Media Centre
   - Media
