@@ -15,7 +15,7 @@ My first HCI research project, DesignWatch, was accepted by MobileHCI 2024 LBW, 
 ![Me and may poster](/XiuchengZhang/images/poster.png)  
 *Me and my poster*
 
-![helicopter!](/XiuchengZhang/images/poster.png)  
-*Heliicopter!*
+![A trip to the Great Ocean Road. Helicopter!](/XiuchengZhang/images/helicopter.png)  
+*A trip to the Great Ocean Road. Heliicopter!*
 
 <!-- <img src="https://drive.google.com/uc?export=view&id=1QVTz5IPTW9hLz6jrxKEfVoHwXT6mTuHX" alt="Photo of my one-minute madness presentation at MobileHCI Conference, Melbourne"> -->
