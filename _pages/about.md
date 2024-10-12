@@ -15,7 +15,7 @@ My research interests lie in Human-Computer Interaction (HCI) and AI for Creativ
 
 Overall, I am passionate about considering the role of a general agent from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis).
 
-Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work.
+Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work (Welcome to explore more of me through my Blog).
 
 You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](assets/pdf/ZHANG Xiucheng CV 20240920.pdf)
 
