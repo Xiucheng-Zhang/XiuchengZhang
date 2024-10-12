@@ -3,7 +3,7 @@ title: 'Band Night!'
 date: 2022-05-28
 permalink: /posts/2023/01/bandnight/
 tags:
-  - band
+  - Band
   - Music
 ---
 
