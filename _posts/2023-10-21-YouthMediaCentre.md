@@ -12,7 +12,7 @@ I am delighted to welcome fresh faces to the Youth Media Center at the School of
 
 <div style="text-align: center;">
     <img src="/XiuchengZhang/images/CentrePhoto2.png" alt="2023-2024 Youth Media Center group photo" style="width: 80%; max-width: 600px;">
-    <p>2022-2023 Youth Media Center group photo</p>
+    <p>2023-2024 Youth Media Center group photo</p>
 </div>
 <div style="text-align: center;">
     <img src="/XiuchengZhang/images/CentrePhoto1.png" alt="2022-2023 Youth Media Center group photo" style="width: 80%; max-width: 600px;">
