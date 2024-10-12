@@ -12,14 +12,14 @@ My first HCI research project, DesignWatch, was accepted by MobileHCI 2024 LBW, 
 ![Photo of my one-minute madness presentation at MobileHCI Conference, Melbourne](/XiuchengZhang/images/MobileHCIpre.png)  
 *Photo of my one-minute madness presentation at MobileHCI 2024, Melbourne*
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div>
-        <img src="/XiuchengZhang/images/poster.png" alt="Me and my poster" style="width: 100%;">
-        <p style="text-align: center;">Me and my poster</p>
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+    <div style="flex: 1; text-align: center;">
+        <img src="your_image_url_1.jpg" alt="Me and my poster" style="width: 100%; height: auto; max-height: 300px;">
+        <p>Me and my poster</p>
     </div>
-    <div>
-        <img src="/XiuchengZhang/images/helicopter.png" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%;">
-        <p style="text-align: center;">A trip to the Great Ocean Road. Helicopter!</p>
+    <div style="flex: 1; text-align: center;">
+        <img src="your_image_url_2.jpg" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%; height: auto; max-height: 300px;">
+        <p>A trip to the Great Ocean Road. Helicopter!</p>
     </div>
 </div>
 
