@@ -16,11 +16,11 @@ My first HCI research project, DesignWatch, was accepted by MobileHCI 2024 LBW, 
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="/XiuchengZhang/images/poster.png" alt="Me and my poster" style="width: 100%; height: auto; max-height: 300px;">
+        <img src="/XiuchengZhang/images/poster.png" alt="Me and my poster" style="width: 100%; height: auto;">
         <p>Me and my poster</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="/XiuchengZhang/images/helicopter.png" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%; height: auto; max-height: 300px;">
+        <img src="/XiuchengZhang/images/helicopter.png" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%; height: auto;">
         <p>A trip to the Great Ocean Road. Helicopter!</p>
     </div>
 </div>
