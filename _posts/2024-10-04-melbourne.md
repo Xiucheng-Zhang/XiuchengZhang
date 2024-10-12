@@ -7,7 +7,7 @@ tags:
   - MobileHCI
 ---
 
-My first HCI research project, DesignWatch, was accepted by MobileHCI 2024 LBW, providing me with the opportunity to attend an academic conference for the first time. I would like to thank Prof. Peng for his guidance and all my collaborators for their hard work. I was very fortunate to make many friends in Melbourne. It was an immensely rewarding experience!
+My first HCI research project, *DesignWatch*, was accepted by MobileHCI 2024 LBW, providing me with the opportunity to attend an academic conference for the first time. I would like to thank Prof. Peng for his guidance and all my collaborators for their hard work. I was very fortunate to make many friends in Melbourne. It was an immensely rewarding experience!
 
 <div style="text-align: center;">
     <img src="/XiuchengZhang/images/MobileHCIpre.png" alt="Photo of my one-minute madness presentation at MobileHCI 2024, Melbourne" style="width: 80%; max-width: 600px;">
