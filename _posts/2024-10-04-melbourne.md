@@ -9,16 +9,18 @@ tags:
 
 My first HCI research project, DesignWatch, was accepted by MobileHCI 2024 LBW, providing me with the opportunity to attend an academic conference for the first time. I would like to thank Prof. Peng for his guidance and all my collaborators for their hard work. I was very fortunate to make many friends in Melbourne. It was an immensely rewarding experience!
 
-![Photo of my one-minute madness presentation at MobileHCI Conference, Melbourne](/XiuchengZhang/images/MobileHCIpre.png)  
-*Photo of my one-minute madness presentation at MobileHCI 2024, Melbourne*
+<div style="text-align: center;">
+    <img src="/XiuchengZhang/images/MobileHCIpre.png" alt="Photo of my one-minute madness presentation at MobileHCI 2024, Melbourne" style="width: 80%; max-width: 600px;">
+    <p>Photo of my one-minute madness presentation at MobileHCI 2024, Melbourne</p>
+</div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="your_image_url_1.jpg" alt="Me and my poster" style="width: 100%; height: auto; max-height: 300px;">
+        <img src="/XiuchengZhang/images/poster.png" alt="Me and my poster" style="width: 100%; height: auto; max-height: 300px;">
         <p>Me and my poster</p>
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="your_image_url_2.jpg" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%; height: auto; max-height: 300px;">
+        <img src="/XiuchengZhang/images/helicopter.png" alt="A trip to the Great Ocean Road. Helicopter!" style="width: 100%; height: auto; max-height: 300px;">
         <p>A trip to the Great Ocean Road. Helicopter!</p>
     </div>
 </div>
