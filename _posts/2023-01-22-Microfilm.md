@@ -19,6 +19,7 @@ The Youth Media Center at the School of Artificial Intelligence has produced its
     <img src="/XiuchengZhang/images/cast.png" alt="Cast group photo" style="width: 80%; max-width: 600px;">
     <p>Cast group photo</p>
 </div>
+<div style="text-align: center;">
     <img src="/XiuchengZhang/images/edit.png" alt="Work log during editing" style="width: 80%; max-width: 600px;">
     <p>Work log during editing</p>
 </div>
