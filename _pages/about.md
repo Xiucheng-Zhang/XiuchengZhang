@@ -11,13 +11,13 @@ Hello! I'm Xiucheng Zhang (张修程), a senior student majoring in Artificial I
 
 My research interests lie in Human-Computer Interaction (HCI) and AI for Creativity. Specifically, my focus includes: 
 1. Understanding and simulating human cognition to align the minds of humans and intelligent agents, thereby optimizing the experience of human-machine collaboration.
-2. Exploring the imagination of intelligent agents to assist humans in creative tasks.
+2. Exploring the imagination of intelligent agents to assist humans in creative tasks, such as image design, video production, music creation, etc.
 
-Overall, I am passionate about considering the role of a general agent from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis).
+Overall, I am passionate about considering the role of AI from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis). I also look forward to utilizing more research opportunities in the future to further refine and clarify my research direction.
 
-Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work (Welcome to explore more of me through my Blog).
+Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work, such as video and music creation (Welcome to explore more of me through my Blog). I am very eager to integrate these interests into my future research direction.
 
-You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](assets/pdf/ZHANG Xiucheng CV 20240920.pdf)
+You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](assets/pdf/ZHANG Xiucheng CV 202410.pdf)
 
 
 ---
