@@ -37,7 +37,7 @@ The PDF of this paper is not available at the moment as it is still under review
 ### *DesignWatch*: Analyzing Users’ Operations of Mobile Apps Based on Screen Recordings. ###
 **Xiucheng Zhang**, Yixin Zeng, Qichang Li, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui Peng  
 MobileHCI 2024 Late-Breaking Work  
-[🔗 PDF](https://dl.acm.org/doi/10.1145/3640471.3680231) | [🖼️ Poster](https://drive.google.com/file/d/1-G3Gzc0NC-CLvqAk6VE3ta8_-qbn7afq/view?usp=sharing)
+[🔗 PDF](https://dl.acm.org/doi/10.1145/3640471.3680231) | [🖼️ Poster](assets/pdf/DesignWatchposter.pdf)
 
 ### Low Saturation Confidence Distribution-based Test-Time Adaptation for Cross-Domain Wide-Area Remote Sensing Image Classification ###
 Yu Liang, **Xiucheng Zhang**, Juepeng Zheng, Jianxi Huang, Haohuan Fu  
