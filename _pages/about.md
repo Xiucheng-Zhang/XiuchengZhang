@@ -17,7 +17,7 @@ Overall, I am passionate about considering the role of AI from the perspective o
 
 Besides my experience in HCI, I have also had the privilege to work with [Prof. Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html) on remote sensing and computer vision research. Additionally, I have completed internships as an algorithm engineer in Shenzhen and Shanghai. Outside of academia, I am passionate about artistic work, such as video and music creation (Welcome to explore more of me through my Blog). I am very eager to integrate these interests into my future research direction.
 
-You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202409 updated)](assets/pdf/ZHANG Xiucheng CV 202410.pdf)
+You can find my CV here: [Xiucheng Zhang's Curriculum Vitae (202410 updated)](assets/pdf/ZHANG Xiucheng CV 202410.pdf)
 
 
 ---
