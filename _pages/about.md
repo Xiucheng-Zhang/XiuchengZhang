@@ -11,7 +11,7 @@ Hello! I'm Xiucheng Zhang (张修程), a senior student majoring in Artificial I
 
 My research interests lie in Human-Computer Interaction (HCI), Social Computing and Human-Centered Design. Specifically, my focus includes: 
 1. Understanding human cognition to align the minds of humans and AI, thereby optimizing the experience of human-AI collaboration.
-2. Exploring how AI can provide emotional support and higher-level cognitive assistance to humans, such as value-driven guidance and fostering creative thinking.
+2. Exploring how AI can provide emotional support and higher-level cognitive assistance to humans, such as emotional support and fostering creative thinking.
 
 Overall, I am passionate about considering the role of AI from the perspective of a partner or friend, and the support they can offer us (I am a huge fan of Jarvis). I also look forward to utilizing more research opportunities in the future to further refine and clarify my research direction.
 
@@ -24,12 +24,6 @@ Besides my experience in HCI, I have also had the privilege to work with [Prof. 
 
 ### *ACKnowledge*: A Computational Framework for Human Compatible Affordance-based Interaction Planning in Real-world Contexts ###
 Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
-CHI 2025, under-review  
-The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
-
-
-### *CanAnswer*: A Community-Powered Conversational Agent for Learning About Colorectal Cancer ###
-Yiwei Yuan, Zhiqing Wang, **Xiucheng Zhang**, Yichao Luo, Shuya Lin, Yang Bai, Zhenhui Peng  
 CHI 2025, under-review  
 The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
 
