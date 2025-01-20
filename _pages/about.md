@@ -25,7 +25,7 @@ Besides my experience in HCI, I have also had the privilege to work with [Prof. 
 ### *ACKnowledge*: A Computational Framework for Human Compatible Affordance-based Interaction Planning in Real-world Contexts ###
 Ziqi Pan, **Xiucheng Zhang**, Zisu Li, Zhenhui Peng, Mingming Fan, Xiaojuan Ma  
 CHI 2025, **Recently Accepted!**
-The PDF of this paper is not available at the moment as it is still under review. Welcome to contact me for more details.
+The PDF of this paper will be published soon.
 
 ### *DesignWatch*: Analyzing Users’ Operations of Mobile Apps Based on Screen Recordings. ###
 **Xiucheng Zhang**, Yixin Zeng, Qichang Li, Guanyi Chen, Qianyao Xu, Xiaozhu Hu, Zhenhui Peng  
